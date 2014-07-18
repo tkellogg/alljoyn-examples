@@ -24,3 +24,5 @@ This directory contains the following set of AllJoyn usage samples:
 **contacts** -    This sample shows how to use AllJoyn methods to send complex data
               types.
 
+
+[SlideShare Presentation Here](http://www.slideshare.net/kellogh/security-identity-in-alljoyn-1406)
