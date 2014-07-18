@@ -13,7 +13,8 @@ This directory contains the following set of AllJoyn usage samples:
 **secure** -      This sample shows how to enable authentication and encryption for
               the simple sample.  The service supports multiple authentication
               mechanisms.  Each client supports one of the authentication
-              mechanisms.
+              mechanisms. Most of the fun is here:
+              https://github.com/tkellogg/alljoyn-examples/blob/master/secure/service/src/org/alljoyn/bus/samples/secureservice/
 
 **properties** -  This sample shows how to use AllJoyn properties in an AllJoyn interface.
 
